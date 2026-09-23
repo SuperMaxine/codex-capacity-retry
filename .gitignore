@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+tests/__pycache__/
+*.py[cod]
+*.egg-info/
+uv.lock
+*.sqlite3
+*.log
+config.json
